@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/projetos/recipes-app/static/css/main.bccfabd3.chunk.css",
+    "main.js": "/projetos/recipes-app/static/js/main.0b8840bb.chunk.js",
+    "main.js.map": "/projetos/recipes-app/static/js/main.0b8840bb.chunk.js.map",
+    "runtime-main.js": "/projetos/recipes-app/static/js/runtime-main.351a886b.js",
+    "runtime-main.js.map": "/projetos/recipes-app/static/js/runtime-main.351a886b.js.map",
+    "static/js/2.8ec5e5d5.chunk.js": "/projetos/recipes-app/static/js/2.8ec5e5d5.chunk.js",
+    "static/js/2.8ec5e5d5.chunk.js.map": "/projetos/recipes-app/static/js/2.8ec5e5d5.chunk.js.map",
+    "index.html": "/projetos/recipes-app/index.html",
+    "precache-manifest.65dbeb14509f9c1eb014bfb640eee3b8.js": "/projetos/recipes-app/precache-manifest.65dbeb14509f9c1eb014bfb640eee3b8.js",
+    "service-worker.js": "/projetos/recipes-app/service-worker.js",
+    "static/css/main.bccfabd3.chunk.css.map": "/projetos/recipes-app/static/css/main.bccfabd3.chunk.css.map",
+    "static/js/2.8ec5e5d5.chunk.js.LICENSE.txt": "/projetos/recipes-app/static/js/2.8ec5e5d5.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/projetos/recipes-app/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/projetos/recipes-app/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/projetos/recipes-app/static/media/exploreIcon.157945ff.svg",
+    "static/media/mealIcon.svg": "/projetos/recipes-app/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/projetos/recipes-app/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/projetos/recipes-app/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/projetos/recipes-app/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/projetos/recipes-app/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351a886b.js",
+    "static/js/2.8ec5e5d5.chunk.js",
+    "static/css/main.bccfabd3.chunk.css",
+    "static/js/main.0b8840bb.chunk.js"
+  ]
+}
