@@ -1,0 +1,19 @@
+select {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.cardAreaOrigin {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardOrigin {
+  font-size: 15px;
+  height: 100px;
+  width: 100px;
+
+}
